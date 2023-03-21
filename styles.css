@@ -47,6 +47,10 @@ html, body {
     color: #f9faf8;
 }
 
+.header-logo h1 {
+    font-size: 5vw;
+}
+
 .header-logo img {
     height: 75px;
     margin-right: 10px;
@@ -63,7 +67,7 @@ html, body {
     margin-right: 10px;
     text-decoration: none;
     font-weight: bold;
-    font-size: 14px;
+    font-size: 2vw;
     text-transform: uppercase;
 }
 
